@@ -1,5 +1,6 @@
 # watcha_recipe
 왓챠 추천 콘텐츠 플러터 앱 프로젝트
+로그인 기능을 추가하였습니다.
 
 ## Getting Started
 
