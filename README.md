@@ -1,6 +1,5 @@
 # watcha_recipe
-
-왓챠 추천 콘텐츠 플러터 프로젝트 파일
+왓챠 추천 콘텐츠 플러터 앱 프로젝트
 
 ## Getting Started
 
