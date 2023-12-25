@@ -1,6 +1,6 @@
 # watcha_recipe
 
-A user-centric design Flutter project that provides information on Watcha-recommended content.
+왓챠 추천 콘텐츠 플러터 프로젝트
 
 ## Getting Started
 
